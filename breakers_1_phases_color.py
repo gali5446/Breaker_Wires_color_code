@@ -1,4 +1,5 @@
 print('')
+
 try:
 
     def color_by_individual_or_by_panel():
